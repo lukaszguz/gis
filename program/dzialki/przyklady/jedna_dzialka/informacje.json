@@ -1,0 +1,7 @@
+{
+  "crs": "EPSG:2179",
+  "liczba_dzialek": 1,
+  "txt_osie": "X=northing Y=easting",
+  "cad_gis_osie": "x=easting y=northing",
+  "uwaga": "TXT: zamknięte pierścienie, indeks działki od 0; części i otwory opisane w pierscienie.csv."
+}
